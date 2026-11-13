@@ -1,4 +1,4 @@
-## Hi there 👋
+## Soy estudiante de computación y robótica de Ies Jose de Mora.
 
 <!--
 **smoudah2511/smoudah2511** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
